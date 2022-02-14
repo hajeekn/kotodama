@@ -1,0 +1,1 @@
+import{v as o,J as t,R as r,q as s,r as a}from"./vendor.a61334ed.js";import{t as n}from"./app.3dee77a8.js";const l=o({setup(u){const e=t();return r(()=>{n.value?e.push("/dashboard"):e.push("/login")}),(p,c)=>(s(),a("div"))}});export{l as default};

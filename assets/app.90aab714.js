@@ -1,0 +1,1 @@
+import{t as a,Q as o,u as t}from"./vendor.a61334ed.js";const l="waline",p=a("app",()=>{const e=o(!1),s=t(`${l}-serverUrl`,"");function r(){e.value=!e.value}return{isCollapse:e,serverUrl:s,toggleCollapse:r}});export{p as u};
